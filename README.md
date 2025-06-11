@@ -1,70 +1,63 @@
+---
+<h1 align="center">Hi 👋, I'm Subham Nayak</h1>
+<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-# Hi there, I'm Subham Nayak 👋
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subham-dev-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="subham-dev-nayak" />
+</p>
 
-I'm a passionate and results-driven Software Developer from India, with a knack for building efficient and scalable web applications. My goal is to leverage my skills to create innovative solutions for complex problems.
 
 ---
 
-### 👨‍💻 About Me
-
-
-- 🔭 **I’m currently working on:** [Your Cool Project Name, e.g., A real-time chat application]
-- 🌱 **I’m currently learning:** [A New Technology, e.g., GraphQL, Kubernetes, or Rust]
-- 👯 **I’m looking to collaborate on:** Open-source projects related to [Your Interest, e.g., FinTech or Developer Tools]
-- 🤔 **I’m looking for help with:** [A concept you're struggling with, e.g., Advanced DevOps concepts]
-- 📫 **How to reach me:** [your.email@example.com]
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** [A fun fact about you, e.g., I can solve a Rubik's cube in under a minute!]
+- 🔭 I’m currently working on my personal [Portfolio Website](https://subham-dev-nayak.github.io/Portfolio/)
+- 🌱 Currently learning **Tailwind CSS, Node.js, React.js**
+- 👯 Looking to collaborate on [Web Development & Hackathon Projects](https://www.linkedin.com/in/subham-nayak-859315287/)
+- 🤝 Looking for help with becoming a **Full-Stack Developer** and improving **project structure** [Connect Here](https://www.linkedin.com/in/subham-nayak-859315287/)
+- 📝 I write blogs at [Showwcase](https://www.showwcase.com/subham-cyber-prog)
+- 💬 Ask me about **React, GSAP, and Frontend Animations**
+- 📫 Reach me at **shubhamnayak394@gmail.com**
+- 📄 Check out my [Resume](https://drive.google.com/file/d/18LQPmXDf634owLnqbpXtWU4CICSZixSO/view?pli=1)
 
 ---
-
-### 🛠️ My Tech Stack
-
-Here are some of the technologies I'm proficient in:
-
-**Languages:**
-<p>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=subham-dev-nayak&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  </a>
 </p>
 
-**Frontend:**
-<p>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"></a>
-  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white"></a>
-  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white"></a>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-dev-nayak&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-**Backend & Databases:**
-<p>
-  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"></a>
-  <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dev-nayak&theme=tokyonight&hide_border=true" />
 </p>
 
-**Tools & Platforms:**
-<p>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
+![GitHub Contribution Snake](https://github.com/subham-dev-nayak/subham-dev-nayak/blob/output/github-contribution-grid-snake.svg)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhamnayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhamnayak/" height="30" width="40" /></a>
+<a href="https://instagram.com/_nayak_shubham_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nayak_shubham_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/subham_nayak06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/subham_nayak06" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sn343555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sn343555" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/subhamn123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/subhamn123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/subhamn2006/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/subhamn2006/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://codeforces.com/profile/subhamn123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://codeforces.com/profile/subhamn123" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/sn343b2w0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/sn343b2w0/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🔗 Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subham-dev-nayak&show_icons=true&locale=en&layout=compact" alt="subham-dev-nayak" /></p>
 
-<p>
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/[your-twitter-username]" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="[your-portfolio-website-url]" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white"></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&locale=en" alt="subham-dev-nayak" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dev-nayak&" alt="subham-dev-nayak" /></p>
 
 
 
