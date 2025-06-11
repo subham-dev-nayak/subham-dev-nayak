@@ -7,6 +7,7 @@ I'm a passionate and results-driven Software Developer from India, with a knack 
 
 ### 👨‍💻 About Me
 
+
 - 🔭 **I’m currently working on:** [Your Cool Project Name, e.g., A real-time chat application]
 - 🌱 **I’m currently learning:** [A New Technology, e.g., GraphQL, Kubernetes, or Rust]
 - 👯 **I’m looking to collaborate on:** Open-source projects related to [Your Interest, e.g., FinTech or Developer Tools]
