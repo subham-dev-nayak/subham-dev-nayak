@@ -26,6 +26,22 @@
   </a>
 </p>
 
+<h2 align="center" style="color:#00FFFF;">📊 GitHub Stats Overview</h2>
+
+<p align="center">
+  <a href="https://github.com/subham-dev-nayak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-dev-nayak&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/subham-dev-nayak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subham-dev-nayak&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/subham-dev-nayak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subham-dev-nayak&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -36,7 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dev-nayak&theme=tokyonight&hide_border=true" />
 </p>
 
-![GitHub Contribution Snake](https://github.com/subham-dev-nayak/subham-dev-nayak/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
@@ -73,15 +89,58 @@
   </a>
 </p>
 
+<h3 align="center">🚀 Languages and Tools:</h3>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45" style="filter: drop-shadow(0 0 8px #7952B3);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" style="filter: drop-shadow(0 0 8px #A8B9CC);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="filter: drop-shadow(0 0 8px #00599C);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" style="filter: drop-shadow(0 0 8px #264DE4);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" style="filter: drop-shadow(0 0 8px #F05032);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" style="filter: drop-shadow(0 0 8px #E34F26);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="filter: drop-shadow(0 0 8px #F7DF1E);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" style="filter: drop-shadow(0 0 8px #FCC624);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" style="filter: drop-shadow(0 0 8px #339933);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" style="filter: drop-shadow(0 0 8px #3776AB);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" style="filter: drop-shadow(0 0 8px #61DAFB);"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" height="45" style="filter: drop-shadow(0 0 8px #38BDF8);"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subham-dev-nayak&show_icons=true&locale=en&layout=compact" alt="subham-dev-nayak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&locale=en" alt="subham-dev-nayak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dev-nayak&" alt="subham-dev-nayak" /></p>
 
 
 
