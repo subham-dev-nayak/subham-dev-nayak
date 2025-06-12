@@ -25,11 +25,10 @@
 - 📫 Reach me at **shubhamnayak394@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/18LQPmXDf634owLnqbpXtWU4CICSZixSO/view?pli=1)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subham-dev-nayak&theme=monokai&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-  </a>
-</p>
+
+
+
+
 
 
 
@@ -40,11 +39,14 @@
   </a>
 </p>
 
+
+
+
 <p align="center">
+  <img height="150" width="150" src="left.webp" />
   <img src="https://streak-stats.demolab.com?user=subham-dev-nayak&theme=great-gatsby&hide_border=true" alt="subham-dev-nayak's GitHub Stats" />
+  <img height="150" width="150" src="right.webp" />
 </p>
-
-
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
