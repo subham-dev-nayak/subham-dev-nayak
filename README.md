@@ -1,10 +1,9 @@
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFA500&height=280&section=header&text=Subham%20Nayak&fontSize=65&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20|%20CSE%20Student%20@Geeta%20University&descSize=22&descAlign=centre&descAlignY=60&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0000FF&height=280&section=header&text=Subham%20Nayak&fontSize=65&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20|%20CSE%20Student%20@Geeta%20University&descSize=22&descAlign=centre&descAlignY=60&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=👨‍💻+Hey+there!+I'm+Subham+Nayak;🙏+नमस्ते+दुनिया!;💡+Bringing+Ideas+to+Life+with+Code;🎯+Focused+Frontend+Developer;🌱+Always+Learning,+Always+Building;🚀+On+a+Mission+to+Create+Impact)](https://git.io/typing-svg)
 
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👨‍💻+Hey+there!+I'm+Subham+Nayak;🙏+नमस्ते+दुनिया!;💡+Bringing+Ideas+to+Life+with+Code;🎯+Focused+Frontend+Developer;🌱+Always+Learning,+Always+Building;🚀+On+a+Mission+to+Create+Impact)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subham-dev-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -26,10 +25,18 @@
 - 📫 Reach me at **shubhamnayak394@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/18LQPmXDf634owLnqbpXtWU4CICSZixSO/view?pli=1)
 
----
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subham-dev-nayak&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=subham-dev-nayak&theme=monokai&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=subham-dev-nayak&theme=flat&no-frame=true&margin-w=15&margin-h=15&title=FFD700&rank=FFD700&column=7" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
