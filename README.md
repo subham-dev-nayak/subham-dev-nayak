@@ -176,13 +176,7 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</h4>  
 
 
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/subham-dev-nayak/subham-dev-nayak/output/github-contribution-grid-snake.svg)
-
-<br/>
 
 
