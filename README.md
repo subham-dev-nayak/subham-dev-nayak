@@ -43,10 +43,13 @@
 
 
 <p align="center">
-  <img height="150" width="150" src="left.webp" />
+  <img height="170" width="170" src="left.webp" />
   <img src="https://streak-stats.demolab.com?user=subham-dev-nayak&theme=great-gatsby&hide_border=true" alt="subham-dev-nayak's GitHub Stats" />
-  <img height="150" width="150" src="right.webp" />
+  <img height="170" width="170" src="right.webp" />
 </p>
+
+
+
 
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
