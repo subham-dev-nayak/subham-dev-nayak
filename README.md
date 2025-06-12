@@ -1,14 +1,17 @@
+<div align="center">
+  
 
----
-<h1 align="center">Hi 👋, I'm Subham Nayak</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0000FF&height=280&section=header&text=Subham%20Nayak&fontSize=65&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20|%20CSE%20Student%20@Geeta%20University&descSize=22&descAlign=centre&descAlignY=60&animation=twinkling)
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👨‍💻+Hey+there!+I'm+Subham+Nayak;🙏+नमस्ते+दुनिया!;💡+Bringing+Ideas+to+Life+with+Code;🎯+Focused+Frontend+Developer;🌱+Always+Learning,+Always+Building;🚀+On+a+Mission+to+Create+Impact)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subham-dev-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="subham-dev-nayak" />
+  <img src="https://img.shields.io/github/stars/subham-dev-nayak?style=flat&label=Total%20Stars&color=FFD700" alt="GitHub Stars" />
 </p>
 
-
----
+</div>
 
 - 🔭 I’m currently working on my personal [Portfolio Website](https://subham-dev-nayak.github.io/Portfolio/)
 - 🌱 Currently learning **Tailwind CSS, Node.js, React.js**
@@ -24,32 +27,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=subham-dev-nayak&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
   </a>
-</p>
-
-<h2 align="center" style="color:#00FFFF;">📊 GitHub Stats Overview</h2>
-
-<p align="center">
-  <a href="https://github.com/subham-dev-nayak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-dev-nayak&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/subham-dev-nayak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subham-dev-nayak&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/subham-dev-nayak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subham-dev-nayak&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-dev-nayak&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dev-nayak&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -141,21 +118,38 @@
 </p>
 
 
-
-
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br/>
+<h2 align="center" style="color:#00FFFF;">📊 GitHub Stats Overview</h2>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-dev-nayak&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  <a href="https://github.com/subham-dev-nayak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subham-dev-nayak&theme=2077" />
+  </a>
 </p>
-</details>
+
+<p align="center">
+  <a href="https://github.com/subham-dev-nayak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subham-dev-nayak&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/subham-dev-nayak">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subham-dev-nayak&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subham-dev-nayak&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subham-dev-nayak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham-dev-nayak&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+
+
+
+
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=subham-dev-nayak&theme=react-dark&hide_border=true&area=true)
