@@ -7,9 +7,13 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=👨‍💻+Hey+there!+I'm+Subham+Nayak;🙏+नमस्ते+दुनिया!;💡+Bringing+Ideas+to+Life+with+Code;🎯+Focused+Frontend+Developer;🌱+Always+Learning,+Always+Building;🚀+On+a+Mission+to+Create+Impact)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subham-dev-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="subham-dev-nayak" />
+  <img src="https://komarev.com/ghpvc/?username=subham-dev-nayak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/subham-dev-nayak?style=flat&label=Total%20Stars&color=FFD700" alt="GitHub Stars" />
+  <img src="https://badges.strrl.dev/repos/subham-dev-nayak?color=blueviolet&style=flat" alt="Total Repos" />
+  <img src="https://badges.strrl.dev/commits/all/subham-dev-nayak?color=teal&style=flat" alt="Total Commits" />
 </p>
+
+
 
 </div>
 
